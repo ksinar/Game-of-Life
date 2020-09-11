@@ -1,5 +1,7 @@
 Conway's Game of Life
 
+By: Kaan Sinar
+
 At each step in time(or tick), the following transitions occur:
 
 1.Any live cell with fewer than two live neighbours dies, as if by underpopulation.
