@@ -12,6 +12,8 @@
  * Usage: ./cgol seed (ticks)
  */
 
+
+/* function to remove the spaces from a string */
 int removeSpaces(char * input){
     int len = strlen(input);
 	char sub[MAXSIZE];
